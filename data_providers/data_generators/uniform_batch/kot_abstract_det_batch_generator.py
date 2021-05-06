@@ -1,0 +1,5 @@
+from data_providers.kot_abstract_data_generator import kot_abstract_data_generator
+from data_providers.iterators.cat_e2e_dataset_iterator import cat_e2e_dataset_iterator;
+
+class kot_abstract_det_batch_generator(kot_abstract_data_generator):
+    ITERATOR_FN = cat_e2e_dataset_iterator;
