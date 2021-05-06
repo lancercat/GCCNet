@@ -28,6 +28,7 @@ You may want to change them in `utils/libpath.py`, note the name can be differen
 
 ## Trained models
 https://drive.google.com/drive/folders/1ZFVrKlKAYQO77cIIzcTYW0Iyeni2qkwe?usp=sharing
+
 You need to put these two folders into `MODELROOT`
 
 
@@ -36,7 +37,7 @@ You need to put these two folders into `MODELROOT`
 Run `project_easts/tester.py`
 
 ## About
-Code for the corresponding neurocomputing paper.
+Code for the corresponding neurocomputing paper GCCNet: Grouped Channel Composition Network for Scene Text Detection.
 
 Should you encounter any problems using the code, feel free to open an issue or email me (lasercat@gmx.us)
 
