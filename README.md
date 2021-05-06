@@ -6,8 +6,6 @@ This repo contains the main application of the GCCblock on text detection and al
 
 We will see if we can release the ensembler, but at least here is the code. 
 
-## Trained models
-
 ## Paths
 
 This repo has 3 improtant paths, which are `$DATASET`,`$CODEROOT`, and `$MODELROOT`.
@@ -27,6 +25,11 @@ $CODEROOT: /home/username/cat/project_tf_family
 $MODELROOT: /home/username/cat/project_uniabc_data
 ```
 You may want to change them in `utils/libpath.py`, note the name can be different.
+
+## Trained models
+https://drive.google.com/drive/folders/1ZFVrKlKAYQO77cIIzcTYW0Iyeni2qkwe?usp=sharing
+You need to put these two folders into `MODELROOT`
+
 
 ## Evaluation
 
