@@ -4,7 +4,7 @@ Code for the corresponding neurocomputing paper.
 ## Description
 This repo contains the main application of the GCCblock on text detection and also the application on CoQA(a nlp task) 
 
-We will see if we can release the ensembler, but at least here is the code. 
+We will see if we can release the ensembler, but at least here is the code for single models. 
 
 ## Paths
 
